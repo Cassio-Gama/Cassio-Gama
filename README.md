@@ -9,3 +9,7 @@ About me:
 I code with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+
+My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio-Gama)](https://github.com/anuraghazra/github-readme-stats)
